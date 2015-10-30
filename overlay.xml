@@ -3,13 +3,13 @@
 <repo priority="50" status="unofficial">
 	<name>cute-overlay</name>
 	<description>A gentoo overlay for CuteCapture</description>
-	<homepage>https://github.com/Gotos/CuteOverlay</homepage>
+	<homepage>https://github.com/Gotos/cute-overlay</homepage>
 	<owner>
 		<email></email>
 		<name>gRuFtY</name>
 	</owner>
 	<source 
-type="git">git://github.com/Gotos/CuteOverlay.git</source>
+type="git">git://github.com/Gotos/cute-overlay.git</source>
 <feed></feed>
 </repo>
 </repositories>
